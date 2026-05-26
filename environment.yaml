@@ -1,0 +1,5 @@
+name: daily-brief-env
+config:
+  type: cloud
+  networking:
+    type: unrestricted
