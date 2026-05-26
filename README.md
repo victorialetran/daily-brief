@@ -2,7 +2,9 @@
 
 > A scheduled AI agent that triages my inbox and curates a personalized morning brief across the three contexts I want to stay sharp on — my PM work, my AI fluency, and the family business I help modernize.
 
-Quick Demo - https://github.com/user-attachments/assets/97f7e482-b28c-4028-a046-0dcf9b28e988
+**Quick demo**
+
+https://github.com/user-attachments/assets/97f7e482-b28c-4028-a046-0dcf9b28e988
 
 ## Why I built this
 
